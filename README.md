@@ -50,8 +50,8 @@ MA-Stock-Forecast/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/MA-Stock-Forecast.git
-cd MA-Stock-Forecast
+git clone https://github.com/MohamedSLITI/MovingAverage.git
+cd MovingAverage
 ```
 
 2. Install dependencies:
