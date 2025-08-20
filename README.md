@@ -37,6 +37,9 @@ This repository demonstrates **time series analysis** and **forecasting** of AMD
 
 ```bash
 git clone https://github.com/MohamedSLITI/MovingAverage.git
-cd MA
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
 
 
