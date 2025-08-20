@@ -78,14 +78,6 @@ python examples/demo_ma.py
 
 ## Dependencies
 
-Create a `requirements.txt` with:
-
-```
-pandas
-numpy
-matplotlib
-statsmodels
-yfinance
 ```
 
 Install using:
