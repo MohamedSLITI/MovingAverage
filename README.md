@@ -28,23 +28,6 @@ This repository demonstrates **time series analysis** and **forecasting** of AMD
 
 ---
 
-## Project Structure
-
-```
-MA-Stock-Forecast/
-│
-├── examples/
-│   └── demo_ma.py        # Main script to run analysis and forecast
-│
-├── utils/
-│   └── data.py           # Functions to fetch and process stock data (optional)
-│
-├── README.md             # Project description and instructions
-└── requirements.txt      # Required Python packages
-```
-
----
-
 ## How to Run
 
 1. Clone the repository:
