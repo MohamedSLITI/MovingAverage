@@ -117,8 +117,8 @@ pip install -r requirements.txt
 
 * [Statsmodels ARIMA Documentation](https://www.statsmodels.org/stable/tsa.html)
 * [Yahoo Finance API (`yfinance`)](https://pypi.org/project/yfinance/)
-* [Time Series Analysis Concepts](https://www.geeksforgeeks.org/moving-average-ma-in-time-series-data/)
+* [Time Series Analysis Concepts](https://www.geeksforgeeks.org/machine-learning/understanding-the-moving-average-ma-in-time-series-data/)
 
 ---
 
-Made with ❤️ by Mohamed Sliti
+
