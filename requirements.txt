@@ -3,3 +3,4 @@ numpy
 matplotlib
 yfinance
 statsmodels
+multitasking==0.0.11
