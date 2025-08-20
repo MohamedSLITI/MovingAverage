@@ -28,5 +28,15 @@ This repository demonstrates **time series analysis** and **forecasting** of AMD
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/MohamedSLITI/MovingAverage.git
+cd MA
+
 
